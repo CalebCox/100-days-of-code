@@ -9,3 +9,12 @@
 **Link(s) to work**
 1. [Map the Debris](https://www.freecodecamp.org/challenges/map-the-debris)
 2. [Pomodoro Clock](https://github.com/CalebCox/PomodoroClock)
+
+### Day 2: August 30, Wednesday
+
+**Today's Progress**: Updated stylesheet for my Pomodoro Clock and added UI functionality and timer to the clock.
+
+**Thoughts** Really need to get a better grasp on certain JS functions and operators.
+
+**Link(s) to work?**
+1. [Pomodoro Clock](https://github.com/CalebCox/PomodoroClock)
