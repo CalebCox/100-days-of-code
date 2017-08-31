@@ -18,3 +18,12 @@
 
 **Link(s) to work?**
 1. [Pomodoro Clock](https://github.com/CalebCox/PomodoroClock)
+
+### Day 3: August 31, Thursday
+
+**Today's Progress**: Finalized all functionality of my Pomodoro clock.
+
+**Thoughts** Learned quite a bit about Intervals. Really enjoyed challenging myself to complete the JS side of this without using jQuery or any other framework/library for help. On to styling!
+
+**Link(s) to work?**
+1. [Pomodoro Clock](https://github.com/CalebCox/PomodoroClock)
