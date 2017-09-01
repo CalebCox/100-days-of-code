@@ -25,5 +25,8 @@
 
 **Thoughts** Learned quite a bit about Intervals. Really enjoyed challenging myself to complete the JS side of this without using jQuery or any other framework/library for help. On to styling!
 
+**Updated later in the day**: Had to finished the Pomodoro clock, couldn't wait! Added a link to the completed clock on Codepen below.
+
 **Link(s) to work?**
 1. [Pomodoro Clock](https://github.com/CalebCox/PomodoroClock)
+2. [Codepen to functional Clock](https://codepen.io/Nestik/full/GvzgVw/)
