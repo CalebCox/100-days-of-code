@@ -30,3 +30,14 @@
 **Link(s) to work?**
 1. [Pomodoro Clock](https://github.com/CalebCox/PomodoroClock)
 2. [Codepen to functional Clock](https://codepen.io/Nestik/full/GvzgVw/)
+
+
+### Day 4: September 1, Friday
+
+**Today's Progress**: Finished the Pairwise Algorithm challenge, which was my last algorithm challenge on FreeCodeCamp. Started the Tic Tac Toe project.
+
+**Thoughts**: While I'm glad to have moved to the next project and to have completed all the algorithm challenges I feel I didn't get as much done today as I could have.
+
+**Link(s) to work?**
+  1. [Pairwise](https://www.freecodecamp.org/challenges/pairwise)
+  2. [Tic Tac Toe Github](https://github.com/CalebCox/TicTacToe)
