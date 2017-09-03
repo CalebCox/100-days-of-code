@@ -31,7 +31,6 @@
 1. [Pomodoro Clock](https://github.com/CalebCox/PomodoroClock)
 2. [Codepen to functional Clock](https://codepen.io/Nestik/full/GvzgVw/)
 
-
 ### Day 4: September 1, Friday
 
 **Today's Progress**: Finished the Pairwise Algorithm challenge, which was my last algorithm challenge on FreeCodeCamp. Started the Tic Tac Toe project.
@@ -41,3 +40,12 @@
 **Link(s) to work?**
   1. [Pairwise](https://www.freecodecamp.org/challenges/pairwise)
   2. [Tic Tac Toe Github](https://github.com/CalebCox/TicTacToe)
+  
+  ### Day 5: September 2, Saturday
+  
+  **Today's progress**: Setup the stylesheet and layout for the Tic Tac Toe board.
+  
+  **Thoughts**: Again today I was unable to put more work in outside of the required hour. I feel the past two days i've made very little to no progress to show.
+  
+  **Link(s) to work?**
+  1. [Tic Tac Toe Github](https://github.com/CalebCox/TicTacToe)
