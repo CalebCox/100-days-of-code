@@ -41,7 +41,7 @@
   1. [Pairwise](https://www.freecodecamp.org/challenges/pairwise)
   2. [Tic Tac Toe Github](https://github.com/CalebCox/TicTacToe)
   
-  ### Day 5: September 2, Saturday
+### Day 5: September 2, Saturday
   
   **Today's progress**: Setup the stylesheet and layout for the Tic Tac Toe board.
   
@@ -50,7 +50,7 @@
   **Link(s) to work?**
   1. [Tic Tac Toe Github](https://github.com/CalebCox/TicTacToe)
   
-    ### Day 6: September 3, Sunday
+### Day 6: September 3, Sunday
   
   **Today's progress**: Updated stylesheet to fix display issues once text was added to each cell. Started playing with functionality.
   
@@ -58,3 +58,13 @@
   
   **Link(s) to work?**
   1. [Tic Tac Toe Github](https://github.com/CalebCox/TicTacToe)
+
+### Day 7: September 4, Monday
+
+**Today's Progress**: Refactored my Tic Tac Toe project for better functionality and DRY code. Also, made a simple Weight Watchers SmartPoints calculator after it was brought to my attention the current calculator doesnt allow for numbers over 1000 to be input for tracking.
+
+**Thoughts**: Glad to have finally made some decent progress on my Tic Tac Toe project. Just need to get the AI working and it should be completed. Had fun tackling the Weight Watchers algorithm too.
+
+**Link(s) to work?**
+  1. [Tic Tac Toe Github](https://github.com/CalebCox/TicTacToe)
+  2. [SmartPoints Calculator](https://codepen.io/Nestik/full/wqOLrG/)
