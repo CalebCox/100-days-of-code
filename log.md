@@ -49,3 +49,12 @@
   
   **Link(s) to work?**
   1. [Tic Tac Toe Github](https://github.com/CalebCox/TicTacToe)
+  
+    ### Day 6: September 3, Sunday
+  
+  **Today's progress**: Updated stylesheet to fix display issues once text was added to each cell. Started playing with functionality.
+  
+  **Thoughts**: Another slow day again today due to some hiccups I found with my stylesheet after adding user inputs. I'll have to re-work the entiretly of my JS so it isn't the same repeated code (DRY). Will get back to this tomorrow with fresh eyes.
+  
+  **Link(s) to work?**
+  1. [Tic Tac Toe Github](https://github.com/CalebCox/TicTacToe)
