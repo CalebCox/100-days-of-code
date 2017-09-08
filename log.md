@@ -68,3 +68,21 @@
 **Link(s) to work?**
   1. [Tic Tac Toe Github](https://github.com/CalebCox/TicTacToe)
   2. [SmartPoints Calculator](https://codepen.io/Nestik/full/wqOLrG/)
+
+### Day 8: September 5, Tuesday
+
+**Today's Progress**: No major coding progress made, studied Minimax and Recursion to get a better understanding of both in order to start on AI for the Tic Tac Toe Project.
+
+**Thoughts**: Really bummed I didn't have any code to commit today after numerous failed tests. Although, I am glad to have taken to time to research a new topic.
+
+**Link(s) to study resources?**
+  1. [MIT OpenCourseWare Search: Games, Minimax, and Alpha-Beta](https://www.youtube.com/watch?v=STjW3eH0Cik)
+
+### Day 9: September 6, Wednesday
+
+**Today's Progess**: Continued to study AI algorithms and mechanics for zero-sum games such as Alpha-Beta and Deep Blue to get a stronger foundation of AI.
+
+**Thoughts**: Similar to yesterday, no code to commit or show for work due to failed testing and time spent watching resources.
+
+**Link(s) to study resources?**
+  1. [UC Berkeley CS188 Step-by-Step Alpha Beta](https://www.youtube.com/watch?v=xBXHtz4Gbdo)
