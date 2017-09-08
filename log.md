@@ -86,3 +86,13 @@
 
 **Link(s) to study resources?**
   1. [UC Berkeley CS188 Step-by-Step Alpha Beta](https://www.youtube.com/watch?v=xBXHtz4Gbdo)
+
+### Day 10: September 7, Thursday
+
+**Today's Progress**: Re-approached my Tic Tac Toe game and implemented a basic AI, I was unable to fully grasp how to implement minimax or alpha beta pruning but I wante to make progress and commit code. Got the AI and game functionality compeleted!
+
+**Thoughts**: While I don't have the smart unbeatable AI that I would like to have, my game is functional and completed enough to publish to Codepen. I can always come back and re-visit it once I've learned a bit more about AI. I'm happy with the results.
+
+**Link(s) to work?**
+  1. [Functional Codepen Tic Tac Toe](https://codepen.io/Nestik/full/jLjLym/)
+  2. [Tic Tac Toe Github](https://github.com/CalebCox/TicTacToe)
