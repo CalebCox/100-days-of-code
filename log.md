@@ -96,3 +96,12 @@
 **Link(s) to work?**
   1. [Functional Codepen Tic Tac Toe](https://codepen.io/Nestik/full/jLjLym/)
   2. [Tic Tac Toe Github](https://github.com/CalebCox/TicTacToe)
+  
+### Day 11: September 8, Friday
+
+**Today's Progress**: Started on the Simon game project. Fleshed out the HTML layout, CSS and started on functionality.
+
+**Thoughts**: I actually had an approach in mind for this project prior to finishing the Tic Tac Toe project. I thought it would be easier, and while I'm off to a great start I'm running into some hurdles that I wasn't anticipating, but such is life!
+
+**Link(s) to work?**
+  1. [Simon Github](https://github.com/CalebCox/Simon)
