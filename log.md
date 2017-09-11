@@ -105,3 +105,29 @@
 
 **Link(s) to work?**
   1. [Simon Github](https://github.com/CalebCox/Simon)
+  
+### Day 12: September 9, Saturday
+
+**Today's Progress**: Didn't get much updated in the way of my Simon game. Studied intervals a bit to get a better understanding of the issue I was having with my addClass/removeClass timer. Assisted a friend with a Introduction to Programming Logic lab they had for school.
+
+**Thoughts**: While I didn't make any progress to show today, the fact that I was able to assist someone else with a problem they were having allowed me to see how far I've come and how much I've leard since starting FreeCodeCamp.
+
+### Day 13: September 10, Sunday
+
+**Today's Progress**: Tested out some changes to my timer function with no results. I feel I should attempt to start from scratch on my Javascript and try a different approach.
+
+**Thoughts**: I've gotten stumped a bit more than I had originally anticipated but I feel after re-approaching this I should be able to overcome the hurdles I've encountered.
+
+**Link(s) to work?**
+  1. [Simon Github](https://github.com/CalebCox/Simon)
+  
+### Day 14: September 11, Monday
+
+**Today's Progress**: After looking at other possible approaches to the Simon game I've found that using Objects might be a better approach versus how I was previously handling the game logic. I refactored my code (actually started from scratch) using this new approach and was able to overcome the hurdle and complete the Simon project. This also means I've completed the FreeCodeCamp Front-End certification!!
+
+**Thoughts**: I'm very excited to have my past experiences gratified with the certificate and knowing based on Day 12's experience that I can speak to what I've learned. I'm even more excited to continue on from this point and learn even further!
+
+**Link(s) to work?**
+  1. [Simon Github](https://github.com/CalebCox/Simon)
+  2. [Simon Codepen](https://codepen.io/Nestik/full/LzPOVN/)
+  3. [Front-End Certification](https://www.freecodecamp.org/calebcox/front-end-certification)
