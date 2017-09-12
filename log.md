@@ -131,3 +131,14 @@
   1. [Simon Github](https://github.com/CalebCox/Simon)
   2. [Simon Codepen](https://codepen.io/Nestik/full/LzPOVN/)
   3. [Front-End Certification](https://www.freecodecamp.org/calebcox/front-end-certification)
+  
+### Day 15: September 12, Tuesday
+
+**Today's Progress**: Started the Back-End coursework for FreeCodeCamp and got through how-to-npm and learnyounode. Also started back up on Colt Steele's Web Dev Bootcamp (I finished the front end section but waited to start the back-end until my FreeCodeCamp progress caught up). After user feedback, I updated my Simon game to be less "intrusive" by removing game status Alerts and replacing them with an <h2> that updates based on game state.
+
+**Thoughts**: Glad to get moving and have the confidence to go back and revisit older projects and improve upon them.
+
+**Link(s) to work?**
+  1. [Simon Github](https://github.com/CalebCox/Simon)
+  2. [Simon Codepen](https://codepen.io/Nestik/full/LzPOVN/)
+  3. [Colt Steele's Web Dev Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
