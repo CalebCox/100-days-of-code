@@ -142,3 +142,13 @@
   1. [Simon Github](https://github.com/CalebCox/Simon)
   2. [Simon Codepen](https://codepen.io/Nestik/full/LzPOVN/)
   3. [Colt Steele's Web Dev Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+  
+### Day 16: September 13, Wednesday
+
+**Today's Progress**: Completed the Node.js section and started Express.js on FreeCodeCamp, continued Colt Steele's web dev bootcamp.
+
+**Thoughts**: No code to commit today but wrapping my brain around this back end framework has been quite the change of pace from the previous front end work i've done.
+
+**Link(s) to work?**
+  1. [FCC Express.js](https://www.freecodecamp.org/challenges/build-web-apps-with-expressjs)
+  2. [Colt Steele's Web Dev Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
