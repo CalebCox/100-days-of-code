@@ -152,3 +152,14 @@
 **Link(s) to work?**
   1. [FCC Express.js](https://www.freecodecamp.org/challenges/build-web-apps-with-expressjs)
   2. [Colt Steele's Web Dev Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 17: September 14, Thursday
+
+**Today's Progress**: Complete the Express.js and Git sections of FreeCodeCamp's back-end track. Continued through to the intermediate section of Colt Steele's Udemy course.
+
+**Thoughts**: Next step on FCC is MongoDB, I'll probably hold off on that until after I complete the Udemy courses Express.js sections. Might re-visit my Tic Tac Toe project to refactor it for minimax.
+
+**Line(s) to work?**
+  1. [FCC Express.js](https://www.freecodecamp.org/challenges/build-web-apps-with-expressjs)
+  2. [FCC Git](https://www.freecodecamp.org/challenges/save-your-code-revisions-forever-with-git)
+  3. [Colt Steele's Web Dev Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
