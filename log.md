@@ -159,7 +159,25 @@
 
 **Thoughts**: Next step on FCC is MongoDB, I'll probably hold off on that until after I complete the Udemy courses Express.js sections. Might re-visit my Tic Tac Toe project to refactor it for minimax.
 
-**Line(s) to work?**
+**Link(s) to work?**
   1. [FCC Express.js](https://www.freecodecamp.org/challenges/build-web-apps-with-expressjs)
   2. [FCC Git](https://www.freecodecamp.org/challenges/save-your-code-revisions-forever-with-git)
   3. [Colt Steele's Web Dev Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 18: September 15, Friday
+
+**Today's Progress**: Continued learning Express.js, re-visited API's and started on a Yelp clone for practice.
+
+**Thoughts**: Continuing to push through Colt Steele's course. Contemplating re-visiting my own portfolio site and giving it a facelift as well. Need code to commit!
+
+**Link(s) to work?**
+  1. [Colt Steele's Web Dev Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+  
+### Day 19: September 17, Sunday
+
+**Today's Progress**: Finished up the Express.js section from the Web Dev Bootcamp and started styling on the Yelp clone. Started learning about MongoDB.
+
+**Thoughts**: Now that I'm at MongoDB on the Web Dev Bootcamp I can start working on FCC again. I'm going to get a bit ahead on the Udemy course before re-starting FCC. I've also found that I can continue the Data Visualization certification via FCC Beta. 
+
+**Link(s) to work?**
+  1. [Colt Steele's Web Dev Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
