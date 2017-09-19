@@ -181,3 +181,15 @@
 
 **Link(s) to work?**
   1. [Colt Steele's Web Dev Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 20: September 18, Monday
+
+**Today's Progress**: Completed the MongoDB section on FreeCodeCamp and Colt Steele's Udemy course. Finished and committed the Timestamp Microservice project for FCC.
+
+**Thoughts**: I really struggled to complete and fully understand the Timestamp project. I feel like I should have easily gotten through this given the prior experience I've had. I'll be considering a further deep dive into Node and EJS, specifically GET and POST requests to try and remedy this issue.
+
+**Link(s) to work?**
+  1. [Colt Steele's Web Dev Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+  2. [FreeCodeCamp MongoDB](https://www.freecodecamp.org/challenges/store-data-in-mongodb)
+  3. [Timestamp Project live](https://pickle-emery.glitch.me/)
+  4. [Timestamp Project GitHub](https://github.com/CalebCox/Timestamp-Microservice)
