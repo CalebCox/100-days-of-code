@@ -193,3 +193,21 @@
   2. [FreeCodeCamp MongoDB](https://www.freecodecamp.org/challenges/store-data-in-mongodb)
   3. [Timestamp Project live](https://pickle-emery.glitch.me/)
   4. [Timestamp Project GitHub](https://github.com/CalebCox/Timestamp-Microservice)
+  
+### Day 21: September 19, Tuesday
+
+**Today's Progress**: Started the Beta FreeCodeCamp API/Node/Express track as it goes a bit more into detail. Trying to gain a better understanding of Node and Express.
+
+**Thoughts**: I'm still struggling to understand how Node and Express functions between front end and back end. I'm sure I'm probably just overcomplicating things.
+
+**Link(s) to work?**:
+  1. [FreeCodeCamp's Beta Course](https://beta.freecodecamp.org/en/challenges/basic-node-and-express/)
+  
+### Day 22: September 21, Thursday
+
+**Today's Progress**: Decided to re-visit my TicTacToe project to refactor the JS and implement minimax, I plan to add a difficulty selection as well as a player vs player option.
+
+**Thoughts**: I planned to re-visit this project eventually but am doing it now as I feel due to the Node/Express tracks I'm working I have no code to commit, also, given my struggles with the back end I wanted to take a step back and work on something else and re-approach Node and Express with fresh eyes.
+
+**Link(s) to work?**:
+  1. [Tic Tac Toe Minimax Github Branch](https://github.com/CalebCox/TicTacToe/tree/minimax_refactor)
