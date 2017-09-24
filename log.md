@@ -211,3 +211,24 @@
 
 **Link(s) to work?**:
   1. [Tic Tac Toe Minimax Github Branch](https://github.com/CalebCox/TicTacToe/tree/minimax_refactor)
+  
+### Day 23: September 22, Friday
+
+**Today's Progress**: Went through some Mongoose excercises for Colt Steeles Udemy course, read through the Twitch Extensions developer documentation and completed the Request Header Parser project for FreeCodeCamp's Back-End cert.
+
+**Thoughts**: Today was a pretty busy day, I feel like I made a lot of progress and have a positive outlook moving onto the next challenge.
+
+**Link(s) to work?**:
+  1. [Colt Steele's Web Dev Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+  2. [Twitch Extenstions Documentation](https://dev.twitch.tv/docs/extensions)
+  3. [FCC Request Header Parser Microservice LIVE](https://wiggly-bassoon.glitch.me/)
+  4. [FCC Request Header Parser Microservice GitHub](https://github.com/CalebCox/HeaderParser)
+  
+### Day 24: September 23, Saturday
+
+**Today's Progress**: Continued working through Colt Steeles Udemy course and it's MongoDB and Mongoose section.
+
+**Thoughts**: After looking into the User Stories and cases for the next FCC backend project I've found I'll need a better grasp of MongoDB to properly complete this next challenge and have put FCC on hold until I get a bit more knowledge in that area frmo the Udemy course I'm currently going through.
+
+**Link(s) to work?**:
+  1. [Colt Steele's Web Dev Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
